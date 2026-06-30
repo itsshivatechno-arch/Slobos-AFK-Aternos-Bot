@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Shiva_ka_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Virtual_verse.aternos.me",
     "port": 60521,
-    "version": "1.21.10",
+    "version": "",
     "try-creative": false
   },
   "position": {
